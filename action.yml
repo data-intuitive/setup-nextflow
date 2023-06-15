@@ -1,6 +1,6 @@
 name: "Setup Nextflow"
 description: "Install Nextflow and add it to the PATH"
-author: "nf-core"
+author: "data-intuitive"
 inputs:
   version:
     description: "The Nextflow version to download (if necessary) and use. Example: 21.10.3"
